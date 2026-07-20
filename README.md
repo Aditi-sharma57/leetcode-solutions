@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
