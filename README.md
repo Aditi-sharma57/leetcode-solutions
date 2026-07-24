@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,8 +79,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
