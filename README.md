@@ -124,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
