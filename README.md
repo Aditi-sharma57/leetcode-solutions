@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
