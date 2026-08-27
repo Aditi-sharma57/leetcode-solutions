@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
