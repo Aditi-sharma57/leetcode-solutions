@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
 | ------- |
