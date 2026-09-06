@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
