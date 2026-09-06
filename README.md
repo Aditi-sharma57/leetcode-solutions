@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0231-power-of-two) |
