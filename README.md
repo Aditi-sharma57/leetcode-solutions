@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
