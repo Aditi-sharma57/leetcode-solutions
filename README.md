@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
