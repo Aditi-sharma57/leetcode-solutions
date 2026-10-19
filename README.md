@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
