@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 ## Tournament Sort
 |  |
 | ------- |
