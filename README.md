@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0455-assign-cookies) |
