@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2409-count-days-spent-together](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/0520-detect-capital) |
+| [2409-count-days-spent-together](https://github.com/Aditi-sharma57/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
 | ------- |
